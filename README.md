@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alexmercyadeiza
-- 👀 I’m interested in building saas apps with Laravel + Laravel Ecosystem (TALL Stack Enthisiast)
-- 🌱 I’m currently learning (Everything Laravel)
+- 👀 I’m building saas apps with Laravel + Laravel Ecosystem (TALL Stack)
 - 💞️ I’m looking to collaborate on Laravel Apps
 - 📫 How to reach me: TW / alexmercyadeiza Em: alexmercyadeiza@gmail.com
 
